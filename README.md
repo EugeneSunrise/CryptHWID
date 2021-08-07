@@ -1,6 +1,6 @@
 ## Crypt Library
 
-Library for ([Licensing](https://github.com/EugeneSunrise/Licensing/tree/master))
+Library for ([Licensing](https://github.com/EugeneSunrise/Licensing))
 
 **Features:**
 - GetUHId = Your ID
